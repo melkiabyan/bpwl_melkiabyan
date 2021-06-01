@@ -37,4 +37,5 @@ foreach($db->tampil_data() as $x){
 <?php
 }
 ?>
+     
 
